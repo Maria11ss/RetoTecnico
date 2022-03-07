@@ -1,0 +1,7 @@
+com\testapi\restservice\model\RestRequest.class
+com\testapi\restservice\controller\MainController.class
+com\testapi\restservice\model\User.class
+com\testapi\restservice\model\UserRequest.class
+com\testapi\restservice\model\RestResponse.class
+com\testapi\restservice\RestserviceApplication.class
+com\testapi\restservice\BeanConfig.class
